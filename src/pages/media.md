@@ -1,37 +1,75 @@
 ---
 layout: ../layouts/PageLayout.astro
-title: "Talks and Interviews"
+title: "Interviews and Talks"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+<figure>
+  <img
+    src="/files/talks/committers.jpg"
+    alt="Apache CloudStack Committers, CloudStack Collaboration Conference (CCC) Las Vegas, 2 Dec 2012"
+  />
+    <figcaption class="text-center">
+      Original Apache CloudStack Committers — first CloudStack Collaboration Conference (CCC)<br/>
+      Las Vegas, 2 Dec 2012
+  </figcaption>
+</figure>
 
-![ry](public/ry.png)
+## Interviews and Media Engagements
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+- [Inside ShapeBlue: Rohit Yadav, VP Engineering](https://www.youtube.com/watch?v=iWxORviQcOE)
+- [CloudStack Collaboration Conference Insights: Rohit Yadav](https://youtu.be/GUa6gyUTwCo)
+- [Apache CloudStack PMC Member - Meet the Community Series - Rohit Yadav](https://www.youtube.com/watch?v=3czJ16h0Tto)
+- [GTwGT\#82 - Exploring Alternative Hypervisors with Apache CloudStack](https://www.youtube.com/watch?v=WR2wKmgonDY)
+- [Apache CloudStack PMC Member - Meet the Community Series - Rohit Yadav](https://www.youtube.com/watch?v=VNYls4_zFks)
+- [Ask The Community: Strongest Points of the Community](https://youtu.be/LtAmy12L58M?si=WSIMTzzjU1Ghwooo&t=45)
+- [Ask The Community: What Does the Hashtag #CloudStackWorks Mean to You?](https://youtu.be/XkB0DdinNuw?si=sMY1buszuMJGCitB&t=39)
+- [Ask The Community: Benefits & How Organizations Use CloudStack](https://youtu.be/9ASz4pmuVsE?si=afI7a_oF2EtYjrcO&t=25)
+- [Trillions and Trillions Served - Apache Software Foundation Documentary](https://ghostarchive.org/varchive/JUt2nb0mgwg) ([original link](https://www.youtube.com/watch?v=JUt2nb0mgwg)) `documentary`
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Talks
 
-## Features
+[Webinar: Bulding Open GPU Cloud with Apache CloudStack](https://youtu.be/aYGgUpKth7I?si=MRlxrXmrn-uAHAE-), 10 October, 2025
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+[CloudStack GPU Integration](/files/talks/csiug25-cloudstack-gpu-integration.pdf) [(Video)](https://www.youtube.com/watch?v=ly1dmZqpaJw), CloudStack India User Group Meetup, Greater Noida, 11 July, 2025
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+[CSIUG 2025 Meetup Kickoff & Welcome](/files/talks/csiug25-meetup-kickoff.pdf) [(Video)](https://www.youtube.com/watch?v=i3UekFHOqM4), CloudStack India User Group Meetup, Greater Noida, 11 July, 2025
 
-and so much more.
+[What's New in Apache CloudStack](/files/talks/ccc24-whats-new-in-cloudstack.pdf) [(Video)](https://www.youtube.com/watch?v=hucHVixAyPg), CCC Madrid 2024, 21 November, 2024
 
-## Show your support
+[A New CloudStack Driver Model](/files/talks/ccc24-cloudstack-extensions.pdf) [(Video)](https://www.youtube.com/watch?v=cnN3BOCskZk), CCC Madrid 2024, 22 November, 2024
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+[CloudStack 101 - The Best Way to Build Your Private Cloud](/files/talks/csiug24-cloudstack-101.pdf) [(Video)](https://www.youtube.com/watch?v=pASzZR57V_8), CloudStack India User Group Meetup, Hyderabad, 23 February, 2024
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+[CloudStack Enables - State of the Union](/files/talks/ccc23-cloudstack-enables.pdf) [(Video)](https://www.youtube.com/watch?v=cCNCmJxxEPA&t=4s), CCC Paris 2023, 23 November, 2023
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+[Next-Gen Virtual Router and Zero-Downtime Upgrades](/files/talks/ccc22-nextgen-vr-zero-downtime-upgrade.pdf) [(Video)](https://www.youtube.com/watch?v=NFphf0CyBYs), CCC Sofia 2022, 16 November, 2022
 
-Kyay zuu! 🙏🏼
+[Next-Gen Virtual Router](/files/talks/ccc21-vr-agent.pdf) [(Video)](https://www.youtube.com/watch?v=1BTC-3uCYyE), Virtual CCC 2021, 11 November, 2021
+
+[mbx - Local CI/CD for CloudStack](/files/talks/ccc21-mbx.pdf) [(Video)](https://www.youtube.com/watch?v=a8xuWHrzw88), Virtual CCC 2021, 10 November, 2021
+
+[Rohit Yadav - Apache CloudStack PMC Member](https://www.youtube.com/watch?v=VNYls4_zFks), Meet the Community Series, 16 July 2021
+
+[Modern UI for CloudStack](/files/talks/cccna19-primate.pdf) [(Video)](https://www.youtube.com/watch?v=F2KwZhechzs), CCCNA Las Vegas, 9 September 2019
+
+[The Future of CloudStack Virtual Router](/files/talks/cccna19-cloudstack-vr.pdf) [(Video)](https://www.youtube.com/watch?v=C2PYSlFZI3Q), CCCNA Las Vegas, 10 September 2019
+
+[CloudStack Virtual Router: Past, Present, Future](/files/talks/cccna18-cloudstack-vr.pdf) [(Video)](https://www.youtube.com/watch?v=ixs_bB5yLvE), CCCNA Montreal, 24 September 2018
+
+[Reliable Host Fencing](/files/talks/cccna17-reliable-host-fencing.pdf), CCCNA Miami, 18 May 2017
+
+[Improving CloudStack for Operators](/files/talks/london-meetup-cloudstack-operators.pdf), CloudStack EU User Group Meetup, London, 3 March 2016
+
+[Getting Started as a CloudStack Developer](/files/talks/ccceu15-intro-for-developers.pdf) [(Video)](https://www.youtube.com/watch?v=0mEtPxWBr2c), CCCEU Dublin, 9 October 2015
+
+[Integrating CloudStack in your Organization using Single Sign On](/files/talks/ccceu15-samlsso.pdf) [(Video)](https://www.youtube.com/watch?v=QLTIZQRNhWA), CCCEU Dublin, 8 October 2015
+
+[Understanding CloudStack Internals](/files/talks/london-meetup-understanding-cloudstack-internals.pdf), CloudStack EU User Group Meetup, London, 21 May 2015
+
+[Extending CloudStack with Plugins and Events](/files/talks/ccceu14-extending-cloudstack.pdf) [(Video)](https://www.youtube.com/watch?v=gFjIJU2csno), CCCEU Budapest, 21 November 2014
+
+SAML Discussion @ Networking Panel Discussion [(Video)](https://www.youtube.com/watch?v=i_ttBpiX4xM&t=15m55s), CCCEU Budapest, 20 November 2014
+
+[Championing CloudStack Development with Tools](/files/talks/ccceu14-tools.pdf) [(Video)](https://www.youtube.com/watch?v=g6vUHGoVtpI), CCCEU Budapest, 19 November 2014
+
+[DevCloud and CloudMonkey Demos](/files/talks/ccc12-devcloud+cloudmonkey.pdf), CCC Las Vegas, 2 Dec 2012

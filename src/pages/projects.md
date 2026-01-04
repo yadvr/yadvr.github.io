@@ -4,3 +4,5 @@ title: "Work"
 ---
 
 Something about projects
+
+![ry](/ry.png)
