@@ -25,7 +25,7 @@ export const SOCIALS: Social[] = [
   },
   {
     name: "X",
-    href: "https://x.com/yadvr",
+    href: "https://x.com/yadvrx",
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
   },
