@@ -1,5 +1,6 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
+import IconGpg from "@/assets/icons/IconGpg.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
@@ -40,6 +41,12 @@ export const SOCIALS: Social[] = [
     href: "mailto:rohit@yadv.in",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
+  },
+  {
+    name: "GPG",
+    href: "/gpg",
+    linkTitle: `GPG public key 0x0EE3D884 5ED1 (E112 2DC5 E8A4 A451 12C2 4842 4821 0EE3 D884)`,
+    icon: IconGpg,
   },
 ] as const;
 

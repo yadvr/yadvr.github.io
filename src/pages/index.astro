@@ -42,19 +42,30 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         <span class="sr-only">RSS Feed</span>
       </a>
 
-      <p>
-        Writing, explorations and learnings on software craftsmanship and
-        leadership, by a lifelong open-source builder and breaker of large-scale
-        cloud platforms.
-      </p>
-      {
-        // only display if at least one social link is enabled
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
-            <Socials />
-          </div>
-        )
-      }
+      <div class="flex flex-col-reverse sm:flex-row sm:items-start sm:gap-8">
+        <div class="flex-1">
+          <p>
+            Writing, explorations and learnings on software craftsmanship and
+            leadership, by a lifelong <a href="https://people.apache.org/committer-index.html#rohit" target="_blank">open-source builder</a> and breaker of large-scale
+            cloud platforms.
+          </p>
+          {
+            // only display if at least one social link is enabled
+            SOCIALS.length > 0 && (
+              <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
+                <Socials />
+              </div>
+            )
+          }
+        </div>
+        <div class="mb-4 sm:mb-0">
+          <img
+            src="/ry.png"
+            alt="Avatar"
+            class="h-32 w-32 rounded-full object-cover"
+          />
+        </div>
+      </div>
     </section>
 
     <Hr />
