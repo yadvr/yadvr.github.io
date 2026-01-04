@@ -16,6 +16,7 @@ title: "Interviews and Talks"
 
 ## Interviews and Media Engagements
 
+- [Executive Perspectives: ShapeBlue CTO](https://www.shapeblue.com/shapeblue-leaders-interview-rohit-yadav-cto/)
 - [Inside ShapeBlue: Rohit Yadav, VP Engineering](https://www.youtube.com/watch?v=iWxORviQcOE)
 - [CloudStack Collaboration Conference Insights: Rohit Yadav](https://youtu.be/GUa6gyUTwCo)
 - [Apache CloudStack PMC Member - Meet the Community Series - Rohit Yadav](https://www.youtube.com/watch?v=3czJ16h0Tto)
