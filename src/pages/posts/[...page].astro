@@ -19,8 +19,6 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 const { page } = Astro.props;
 
-import { SITE } from "@/config";
-
 const posts = await getCollection("blog");
 
 let tags = getUniqueTags(posts);
