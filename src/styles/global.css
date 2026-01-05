@@ -5,7 +5,7 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #fdfdfd;
+  --background: #fffcf5;
   --foreground: #282728;
   --accent: #40a829;
   --muted: #55DD33;
@@ -13,7 +13,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --background: #212737;
+  --background: #2f3741;
   --foreground: #eaedf3;
   --accent: #44d62c;
   --muted: #343f60;
@@ -60,6 +60,7 @@ html[data-theme="dark"] {
 
 .active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
+  text-decoration-color: var(--accent);
 }
 
 /* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
