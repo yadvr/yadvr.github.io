@@ -69,6 +69,11 @@ const isActive = (path: string) => {
           ]}
         >
           <li class="col-span-2">
+            <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
+              Writing
+            </a>
+          </li>
+          <li class="col-span-2">
             <a href="/projects" class:list={{ "active-nav": isActive("/projects") }}>
               Work
             </a>
@@ -76,11 +81,6 @@ const isActive = (path: string) => {
           <li class="col-span-2">
             <a href="/media" class:list={{ "active-nav": isActive("/media") }}>
               Media
-            </a>
-          </li>
-          <li class="col-span-2">
-            <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
-              Writing
             </a>
           </li>
           {

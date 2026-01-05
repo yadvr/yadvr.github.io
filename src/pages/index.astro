@@ -25,7 +25,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        #about
+        <a href="https://en.wikipedia.org/wiki/Namaste" target="_blank">namaste!</a>
       </h1>
       <a
         target="_blank"
@@ -45,9 +45,10 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       <div class="flex flex-col-reverse sm:flex-row sm:items-start sm:gap-8">
         <div class="flex-1">
           <p>
-            Writing, explorations and learnings on software craftsmanship and
-            leadership, by a lifelong <a href="https://people.apache.org/committer-index.html#rohit" target="_blank">open-source builder</a> and breaker of large-scale
-            cloud platforms.
+            I'm <a>Rohit Yadav</a>, a lifelong builder and breaker of large-scale
+            <a class="active-nav" href="https://cloudstack.apache.org/"
+            target="_blank">open-source cloud platforms</a>.
+            I write, explore, and share my learnings on software craftsmanship and leadership here.
           </p>
           {
             // only display if at least one social link is enabled

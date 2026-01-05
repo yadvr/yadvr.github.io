@@ -3,7 +3,7 @@ export const SITE = {
   author: "Rohit Yadav",
   profile: "https://rohit.yadav.cloud/",
   desc: "Writing, explorations and learnings on software craftsmanship and leadership, by a lifelong open-source builder and breaker of large-scale cloud platforms.",
-  title: "Rohit Yadav",
+  title: "Build & Patch",
   ogImage: "ry.png",
   lightAndDarkMode: true,
   postPerIndex: 5,
