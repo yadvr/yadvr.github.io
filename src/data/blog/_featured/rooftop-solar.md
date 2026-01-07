@@ -1,7 +1,7 @@
 ---
 author: Rohit Yadav
 pubDatetime: 2020-03-15
-modDatetime: 2026-01-04
+modDatetime: 2021-09-21
 title: Rooftop Solar PV Plant
 slug: rooftop-solar
 featured: true

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2025-03-08T08:18:19.693Z
+pubDatetime: 2026-01-08T08:18:19.693Z
 title: KitchenSink Example
 slug: example-release
-featured: true
+featured: false
 tags:
   - release
 description: "Lorem Ipsum"
