@@ -61,10 +61,10 @@ export default defineConfig({
     preserveScriptOrder: true,
   },
   redirects: {
-    '/cloudstack': 'https://scaleninja.com/guides/cloudstack/',
-    '/blog/cloudstack-kvm': 'https://scaleninja.com/guides/cloudstack/',
-    '/posts/cloudstack-kvm': 'https://scaleninja.com/guides/cloudstack/',
-    '/blog/ceph': 'https://scaleninja.com/guides/ceph/',
-    '/posts/ceph': 'https://scaleninja.com/guides/ceph/',
+    '/cloudstack': 'https://scaleninja.com/blog/cloudstack/',
+    '/blog/cloudstack-kvm': 'https://scaleninja.com/blog/cloudstack/',
+    '/posts/cloudstack-kvm': 'https://scaleninja.com/blog/cloudstack/',
+    '/blog/ceph': 'https://scaleninja.com/blog/ceph/',
+    '/posts/ceph': 'https://scaleninja.com/blog/ceph/',
   },
 });

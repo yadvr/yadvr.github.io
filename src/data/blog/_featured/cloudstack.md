@@ -11,4 +11,4 @@ tags:
 description: Apache CloudStack Ubuntu/KVM Guide for x86_64 and ARM64
 ---
 
-Moved here: https://scaleninja.com/guides/cloudstack/
+Moved here: https://scaleninja.com/blog/cloudstack/

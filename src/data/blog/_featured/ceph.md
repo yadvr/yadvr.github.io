@@ -11,4 +11,4 @@ tags:
 description: Build Ceph based software-defined storage and use with Apache CloudStack
 ---
 
-Moved here: https://scaleninja.com/guides/ceph/
+Moved here: https://scaleninja.com/blog/ceph/
