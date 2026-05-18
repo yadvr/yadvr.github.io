@@ -3,17 +3,6 @@ layout: ../layouts/PageLayout.astro
 title: "Interviews and Talks"
 ---
 
-<figure>
-  <img
-    src="/files/talks/committers.jpg"
-    alt="Apache CloudStack Committers, CloudStack Collaboration Conference (CCC) Las Vegas, 2 Dec 2012"
-  />
-    <figcaption class="text-center">
-      Original Apache CloudStack Committers — first CloudStack Collaboration Conference (CCC)<br/>
-      Las Vegas, 2 Dec 2012
-  </figcaption>
-</figure>
-
 ## Interviews and Media Engagements
 
 - [Executive Perspectives: ShapeBlue CTO](https://www.shapeblue.com/shapeblue-leaders-interview-rohit-yadav-cto/)
@@ -26,6 +15,17 @@ title: "Interviews and Talks"
 - [Ask The Community: What Does the Hashtag #CloudStackWorks Mean to You?](https://youtu.be/XkB0DdinNuw?si=sMY1buszuMJGCitB&t=39)
 - [Ask The Community: Benefits & How Organizations Use CloudStack](https://youtu.be/9ASz4pmuVsE?si=afI7a_oF2EtYjrcO&t=25)
 - [Trillions and Trillions Served - Apache Software Foundation Documentary](https://ghostarchive.org/varchive/JUt2nb0mgwg) ([original link](https://www.youtube.com/watch?v=JUt2nb0mgwg))
+
+<figure>
+  <img
+    src="/files/talks/committers.jpg"
+    alt="Apache CloudStack Committers, CloudStack Collaboration Conference (CCC) Las Vegas, 2 Dec 2012"
+  />
+    <figcaption class="text-center">
+      Original Apache CloudStack Committers — first CloudStack Collaboration Conference (CCC)<br/>
+      Las Vegas, 2 Dec 2012
+  </figcaption>
+</figure>
 
 ## Talks
 

@@ -3,12 +3,11 @@ layout: ../layouts/PageLayout.astro
 title: "Work"
 ---
 
-Previous & current organisations and projects:
+Current and previous organisations and projects:
 
-* ShapeBlue <small>2014-Present</small>
-  * [hackerbook](https://github.com/shapeblue/hackerbook)
-  * [mbx](https://github.com/shapeblue/mbx)
-  * [Trillian](https://github.com/shapeblue/Trillian)
+* [ScaleNinja](https://scaleninja.com) <small>2014-Present</small>
+  * DeltaSnap
+  * Noject
 
 * Kubernetes <small>2022-Present</small>
   * [CloudStack Cluster API Provider](https://github.com/kubernetes-sigs/cluster-api-provider-cloudstack)
@@ -21,6 +20,11 @@ Previous & current organisations and projects:
   * [CloudStack Installer](https://github.com/apache/cloudstack-installer)
   * [csbench](https://github.com/apache/cloudstack-csbench)
   * [cloudstack-www](https://github.com/apache/cloudstack-www)
+
+* ShapeBlue <small>2014-2026</small>
+  * [hackerbook](https://github.com/shapeblue/hackerbook)
+  * [mbx](https://github.com/shapeblue/mbx)
+  * [Trillian](https://github.com/shapeblue/Trillian)
 
 * Wingify <small><span class="light">2013-2014</span></small>
   * [agentredrabbit](https://github.com/wingify/agentredrabbit) - [Blog](https://engineering.wingify.com/posts/scaling-with-queues/)
