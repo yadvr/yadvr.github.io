@@ -9,18 +9,18 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #fffcf5;
+  --background: #fdfdfd;
   --foreground: #282728;
-  --accent: #40a829;
-  --muted: #55DD33;
+  --accent: #006cac;
+  --muted: #e6e6e6;
   --border: #ece9e9;
 }
 
 html[data-theme="dark"] {
-  --background: #212830;
+  --background: #0a0a0a;
   --foreground: #eaedf3;
   --accent: #44d62c;
-  --muted: #343f60;
+  --muted: #55DD33;
   --border: #66ff00;
 }
 
