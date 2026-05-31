@@ -3,28 +3,24 @@ layout: ../layouts/PageLayout.astro
 title: "Work"
 ---
 
-Current and previous organisations and projects:
+Projects from current and previous organisations:
 
-* [ScaleNinja](https://scaleninja.com) <small>2014-Present</small>
-  * DeltaSnap
-  * Noject
+* [ScaleNinja](https://scaleninja.com) <small>2026-Present</small>
+  * [DeltaSnap](https://scaleninja.com/deltasnap/)
+  * [Noject](https://scaleninja.com/noject/)
 
 * Kubernetes <small>2022-Present</small>
   * [CloudStack Cluster API Provider](https://github.com/kubernetes-sigs/cluster-api-provider-cloudstack)
 
 * Apache Software Foundation <small>2012-Present</small>
-  * [CloudStack](https://github.com/apache/cloudstack/graphs/contributors)
+  * [CloudStack](https://github.com/apache/cloudstack/graphs/contributors?all=1)
   * [CloudMonkey](https://github.com/apache/cloudstack-cloudmonkey)
   * [~~Primate~~](https://github.com/apache/cloudstack-primate)
-  * [CloudStack Terraform Provider](https://github.com/apache/cloudstack-terraform-provider)
-  * [CloudStack Installer](https://github.com/apache/cloudstack-installer)
-  * [csbench](https://github.com/apache/cloudstack-csbench)
   * [cloudstack-www](https://github.com/apache/cloudstack-www)
 
 * ShapeBlue <small>2014-2026</small>
   * [hackerbook](https://github.com/shapeblue/hackerbook)
   * [mbx](https://github.com/shapeblue/mbx)
-  * [Trillian](https://github.com/shapeblue/Trillian)
 
 * Wingify <small><span class="light">2013-2014</span></small>
   * [agentredrabbit](https://github.com/wingify/agentredrabbit) - [Blog](https://engineering.wingify.com/posts/scaling-with-queues/)

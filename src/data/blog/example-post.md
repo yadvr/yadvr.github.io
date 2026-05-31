@@ -1,10 +1,12 @@
 ---
-pubDatetime: 2026-01-08T08:18:19.693Z
+pubDatetime: 2020-01-08T08:18:19.693Z
 title: KitchenSink Example
+author: Rohit Yadav
 slug: example-release
 featured: false
+draft: false
 tags:
-  - release
+  - test
 description: "Lorem Ipsum"
 ---
 

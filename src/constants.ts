@@ -3,6 +3,7 @@ import IconMail from "@/assets/icons/IconMail.svg";
 import IconGpg from "@/assets/icons/IconGpg.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
+import IconBSky from "@/assets/icons/IconBSky.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
@@ -29,6 +30,12 @@ export const SOCIALS: Social[] = [
     href: "https://x.com/yadvrx",
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
+  },
+  {
+    name: "BSky",
+    href: "https://bsky.app/profile/yadv.in",
+    linkTitle: `${SITE.title} on BSky`,
+    icon: IconBSky,
   },
   {
     name: "LinkedIn",

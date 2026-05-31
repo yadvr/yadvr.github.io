@@ -3,8 +3,8 @@ export const SITE = {
   author: "Rohit Yadav",
   profile: "https://rohit.yadav.cloud/",
   desc: "Writing, explorations and learnings on software craftsmanship and leadership, by a lifelong open-source builder and breaker of large-scale cloud platforms.",
-  title: "Patch Notes",
-  ogImage: "avatar.png",
+  title: "Rohit Yadav",
+  ogImage: "avatar.jpg",
   lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage: 5,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/yadavcloud/yadv.in/edit/main/",
+    url: "https://github.com/yadvr/yadvr.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
