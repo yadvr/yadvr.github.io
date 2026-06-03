@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://rohit.yadav.cloud/",
   desc: "Writing, explorations and learnings on software craftsmanship and leadership, by a lifelong open-source builder and breaker of large-scale cloud platforms.",
   title: "Rohit Yadav",
-  ogImage: "avatar.jpg",
+  ogImage: "hero.png",
   lightAndDarkMode: true,
   postPerIndex: 10,
   postPerPage: 10,
