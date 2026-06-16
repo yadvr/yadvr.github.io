@@ -6,6 +6,7 @@ title: "Work"
 Projects from current and previous organisations:
 
 * [ScaleNinja](https://scaleninja.com) <small>2026-Present</small>
+  * [MacVisor](https://scaleninja.com/macvisor/)
   * [DeltaSnap](https://scaleninja.com/deltasnap/)
   * [Noject](https://scaleninja.com/noject/)
 
