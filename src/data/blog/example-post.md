@@ -4,7 +4,7 @@ title: KitchenSink Example
 author: Rohit Yadav
 slug: example-release
 featured: false
-draft: false
+draft: true
 tags:
   - test
 description: "Lorem Ipsum"
