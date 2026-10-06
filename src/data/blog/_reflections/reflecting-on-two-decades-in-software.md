@@ -50,4 +50,4 @@ Curious how other engineering leaders are seeing their own role change.
 
 _This post first appeared on
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7510999116781420545/),
-where it sparked a great discussion. Join the conversation there._
+where it sparked great interest. Join the conversation there._
