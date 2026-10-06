@@ -44,8 +44,6 @@ type systems and OS abstractions as guardrails? Or will they eventually skip all
 that and work in some AI-native representation, maybe straight to machine code,
 that we haven't invented yet?
 
-Curious how other engineering leaders are seeing their own role change.
-
 ---
 
 _This post first appeared on
