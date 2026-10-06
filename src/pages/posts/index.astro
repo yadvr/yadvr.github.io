@@ -5,10 +5,13 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
+import Tag from "@/components/Tag.astro";
 import getPostsByGroupCondition from "@/utils/getPostsByGroupCondition";
+import getUniqueTags from "@/utils/getUniqueTags";
 import { SITE } from "@/config";
 
 const posts = await getCollection("blog", ({ data }) => !data.draft);
+const tags = getUniqueTags(posts);
 
 const months = [
   "January",
@@ -29,6 +32,9 @@ const months = [
 <Layout title={`Writing | ${SITE.title}`}>
   <Header />
   <Main pageTitle="Writing" pageDesc="All the articles I've posted.">
+    <ul class="mb-8">
+      {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} size="lg" />)}
+    </ul>
     {
       Object.entries(
         getPostsByGroupCondition(posts, post =>

@@ -9,6 +9,8 @@ Projects from current and previous organisations:
   * [MacVisor](https://scaleninja.com/macvisor/)
   * [DeltaSnap](https://scaleninja.com/deltasnap/)
   * [Noject](https://scaleninja.com/noject/)
+  * [DriveSync](https://scaleninja.com/drivesync/)
+  * [DeltaSync](https://scaleninja.com/deltasync/)
 
 * Kubernetes <small>2022-Present</small>
   * [CloudStack Cluster API Provider](https://github.com/kubernetes-sigs/cluster-api-provider-cloudstack)
