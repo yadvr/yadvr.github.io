@@ -4,24 +4,22 @@ pubDatetime: 2026-10-21
 title: The Abdication of the Software Engineer
 slug: abdication-of-the-software-engineer
 featured: false
-draft: true
 tags:
   - reflections
   - leadership
 description:
   AI didn't make software less valuable. It removed the disguise that building
-  it was the hard part. On supply and demand, past gold rushes, and moving from
-  labour to ownership, trust and judgment.
+  it was the hard part. Notes on supply and demand, where things may be moving.
 ---
 
 A few weeks ago I wrote that after 19 years, [I think I've written my last line
 of code by hand](/posts/reflecting-on-two-decades-in-software). The response
-surprised me. Some people were curious about the workflow. Many more were
-worried, and not about workflows. They were worried about whether they still
+on surprised me. Some people were curious about the workflow. Many more
+were worried, and not about workflows. They were worried about whether they still
 matter.
 
 This post is about that worry. It's long, and parts of it are speculative. I'm
-an engineer, not an economist, so take it with a bag of salt.
+an engineer and leader, not an economist, so take it with a big bag of salt.
 
 ## The soundtrack of the moment
 
@@ -35,11 +33,10 @@ songs that land a little too close to home.
 [LGTM (Looks Good to Me)](https://www.youtube.com/watch?v=3TNpOD6bov8) is a
 satire about a team that goes "AI first", gives the bots admin rights, and
 approves thousands of lines nobody reads, until the billing breaks and nobody
-left knows how to fix it. A follow-up is titled, simply,
-[forty thousand lines that I didn't read](https://www.youtube.com/watch?v=WBiK2qJw3Cg).
+left knows how to fix it.
 
 Then came [No One Needs Us Anymore](https://www.youtube.com/watch?v=zONGVaONKe8).
-A friend shared it with one line: that's my 2am worry. He's an excellent
+A friend shared it with one line: that's his 2am worry. He's an excellent
 engineer. He isn't worried that he's bad at his job. He's worried that his job
 is quietly becoming unnecessary.
 
@@ -143,7 +140,7 @@ a trough of disappointment, then a slower climb to something boring and useful.
   <figcaption>A rough sketch, not data. My guess at where we are.</figcaption>
 </figure>
 
-My guess is that we're just past the peak. The capabilities are real and still
+My guess is that we're just around or perhaps past the peak. The capabilities are real and still
 improving. But the expectations, "AI will replace whole teams this year", are
 running ahead of what organisations can actually absorb. The trough will come
 when the bills for unreviewed code, unclear ownership and failed pilots arrive.
@@ -157,11 +154,11 @@ When anyone can produce something that looks good, looking good stops meaning
 anything. What becomes scarce is trust.
 
 I think the anti-AI camp's instinct is partly about this. When people say they
-prefer things "made by a human who understands it", they're using that as a
-trust signal. You can argue with the reasoning (humans write plenty of bad
-code), but the signal still has value. It tells you someone stood behind the
-work. In a world of abundant output, being someone who stands behind their
-work is a differentiator.
+prefer things "made by a human who understands it" or insult AI-made or assisted
+things as "vibe-coded", they're using that as a trust signal. You can argue with
+the reasoning (humans write plenty of bad code), but the signal still has value.
+It tells you someone stood behind the work. In a world of abundant output, being
+someone who stands behind their work is a differentiator.
 
 ## Distribution before product
 
@@ -208,8 +205,7 @@ field is unbounded, and how to move toward it.**
 History has examples of both. When ATMs arrived, bank tellers didn't disappear;
 branches got cheaper to run, banks opened more of them, and the teller's job
 shifted towards relationships and sales. Spreadsheets reduced the need for
-bookkeepers doing arithmetic by hand, but created far more demand for analysts
-asking "what if?"
+bookkeepers doing arithmetic by hand, but created far more demand for analysts.
 
 What makes this wave different is **simultaneity**. Earlier automation hit one
 sector at a time, and other sectors absorbed the people who were displaced. This
