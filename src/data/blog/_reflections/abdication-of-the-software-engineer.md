@@ -14,7 +14,7 @@ description:
 
 A few weeks ago I wrote that after 19 years, [I think I've written my last line
 of code by hand](/posts/reflecting-on-two-decades-in-software). The response
-on surprised me. Some people were curious about the workflow. Many more
+surprised me. Some people were curious about the workflow. Many more
 were worried, and not about workflows. They were worried about whether they still
 matter.
 
